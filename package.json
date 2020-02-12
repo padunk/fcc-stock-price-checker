@@ -1,0 +1,20 @@
+{
+  "name": "stock_price_checker",
+  "version": "1.0.0",
+  "description": "fcc project stock price checker",
+  "main": "server.js",
+  "author": "Padunk <abraham.agel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "mocha": "^7.0.1",
+    "mongodb": "^3.5.2",
+    "mongoose": "^5.8.11",
+    "node-fetch": "^2.6.0"
+  }
+}
